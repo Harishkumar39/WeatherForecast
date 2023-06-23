@@ -1,0 +1,63 @@
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+
+#locationName{
+    font-size:30px;
+}
+
+#description{
+    font-size: 25px;
+}
+h1{
+    font-weight: 300;
+}
+h3{
+    font-weight: 300;
+}
+
+#temp{
+    font-size:35px;
+}
+
+.outer{
+    display: flex;
+    justify-content: center;
+    
+}
+.appinfo{
+    display: flex;
+    text-align: center;
+    width:150px;
+    margin-top: 150px;
+}
+
+
+.container{
+    
+    border: 1px solid red;
+    width:400px;
+    text-align:left;
+    border-radius: 5px;
+    padding: 0 10px 10px 10px;
+    /* background-color: azure; */
+}
+.days7{
+    display: flex;
+    justify-content: center;
+}
+.day{
+    border: 1px solid red;
+    width: 250px;
+    margin-right: 20px;
+    border-radius: 5px;
+    padding: 0 10px 10px 10px;
+}
+h3{
+    font-weight: bolder;
+}
+
